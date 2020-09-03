@@ -2,8 +2,6 @@
 ### <h1 align="center"> Hi , I'm Danyil also known as "Danisimo" </h1>
 
 
-###
-
 |🔭 I’m currently working on something cool 
 
 |👨‍💻 All of my projects are available at https://github.com/danisimogg
@@ -42,7 +40,7 @@
 
 
 <details open> 
- <summary><b>Last Repos</b></summary>
+ <summary><b>💻 Check Out My Last Repos ⬇️</b></summary>
 <p align = "center">
 <a href = "https://github.com/Danisimogg/cra-react-redux-template"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Danisimogg&repo=cra-react-redux-template&theme=dark" /></a> <a href = "https://github.com/Danisimogg/better-travel">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Danisimogg&repo=better-travel&theme=dark" /></a> </p>
@@ -97,19 +95,18 @@ Python                   1 repos             █░░░░░░░░░░�
 JavaScript               1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
-
-
-
 <!--END_SECTION:waka-->
-
  </details>
 
 
 
 ---
 ### Spotify Playing 🎧
+<p align="center">
 
-[<img src="https://spotify-status-snowy.vercel.app/api/spotify" alt="Danisimo Spotify Playing" width="350" />](https://open.spotify.com/user/21xa6ruj5ey7ax6cnp4f655by)
+[![Spotify](https://spotify-status-checker-danisimo-git-master.danisimogg.vercel.app/api/spotify)](https://open.spotify.com/user/21xa6ruj5ey7ax6cnp4f655by)
+
+</p>
 
 
 </br>
