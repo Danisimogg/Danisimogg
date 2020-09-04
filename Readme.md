@@ -104,12 +104,13 @@ JavaScript               1 repos             █░░░░░░░░░░�
 
 ---
 ### Spotify Playing 🎧
+<div align="center">
 <p align="center">
 
 [![Spotify](https://spotify-status-checker-danisimo-git-master.danisimogg.vercel.app/api/spotify)](https://open.spotify.com/user/21xa6ruj5ey7ax6cnp4f655by)
 
 </p>
-
+</div>
 
 </br>
 
