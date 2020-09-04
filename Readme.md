@@ -103,6 +103,13 @@ JavaScript               1 repos             █░░░░░░░░░░�
 
 
 ---
+
+<p align="center"> 
+⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.69 %
+
+
+
+---
 ### Spotify Playing 🎧
 <div align="center">
 <p align="center">
@@ -116,12 +123,9 @@ JavaScript               1 repos             █░░░░░░░░░░�
 
 ---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/danisimogg/count.svg" />
-  <div align="center">
-  <a  href="https://github.com/Danisimogg?tab=followers">
-    <img src="https://img.shields.io/github/followers/danisimogg?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <p>
+    <img src="https://profile-counter.glitch.me/danisimogg/count.svg" />
+    <a  href="https://github.com/Danisimogg?tab=followers">
+    <img align="right" src="https://img.shields.io/github/followers/danisimogg?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-</div>
-</p>
+    </p>
