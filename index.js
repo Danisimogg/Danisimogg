@@ -77,12 +77,6 @@ const readme = `\
 
 ---
 
-<p align="center"> 
-⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.69 %
-
-
-
----
 ### Spotify Playing 🎧
 <div align="center">
 <p align="center">
@@ -95,7 +89,11 @@ const readme = `\
 </br>
 
 ---
+<p align="center"> 
+⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+</p>
 
+---
   <p>
     <img src="https://profile-counter.glitch.me/danisimogg/count.svg" />
     <a  href="https://github.com/Danisimogg?tab=followers">
