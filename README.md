@@ -7,9 +7,7 @@
 
 |👨‍💻 All of my projects are available at https://github.com/danisimogg
 
-|⚡  I’m currently learning everything 
-
-|💬  2020 Goals: Contribute more to Open Source projects
+|💬 I’m learning everything 
 
 ---
 
@@ -53,6 +51,8 @@
  
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
  </details>
 
@@ -73,7 +73,7 @@
 
 ---
 <p align="center"> 
-⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.83 %
+⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.00 %
 </p>
 
 ---
