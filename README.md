@@ -60,12 +60,6 @@
 
 ---
 
-<p align="center"> 
-⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.69 %
-
-
-
----
 ### Spotify Playing 🎧
 <div align="center">
 <p align="center">
@@ -78,7 +72,11 @@
 </br>
 
 ---
+<p align="center"> 
+⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.76 %
+</p>
 
+---
   <p>
     <img src="https://profile-counter.glitch.me/danisimogg/count.svg" />
     <a  href="https://github.com/Danisimogg?tab=followers">
