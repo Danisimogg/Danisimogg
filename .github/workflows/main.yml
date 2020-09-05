@@ -3,7 +3,7 @@ name: Progress Bar CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: "0 0 */1 * *" # each day at 00:00 UTC
 
 jobs:
   build:
@@ -21,19 +21,6 @@ jobs:
       run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -am "bot: update README.md automatically"
+          git add README.md
+          git commit -am "bot: (update README.md automatically)"
           git push
-
-  jobs:
-    update-readme:
-      name: Update this repo's README
-      runs-on: ubuntu-latest
-      steps:
-        - uses: anmol098/waka-readme-stats@master
-          with:
-            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            GH_TOKEN: ${{ secrets.GH_TOKEN }}
-            SHOW_PROJECTS: "False"
-            SHOW_LINES_OF_CODE: "True"
-            LOCALE: "en"

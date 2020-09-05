@@ -24,9 +24,7 @@ const readme = `\
 
 |👨‍💻 All of my projects are available at https://github.com/danisimogg
 
-|⚡  I’m currently learning everything 
-
-|💬  2020 Goals: Contribute more to Open Source projects
+|💬 I’m learning everything 
 
 ---
 
