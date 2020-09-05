@@ -68,6 +68,8 @@ const readme = `\
  
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
  </details>
 
