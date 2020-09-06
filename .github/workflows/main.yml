@@ -6,7 +6,25 @@ on:
     - cron: "0 0 */1 * *" # each day at 00:00 UTC
 
 jobs:
-  update-readme:
+  update-year-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+      - name: Update README.md
+        run: node index.js > README.md
+      - name: Commit change & Push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -am "bot: (update README.md automatically)"
+          git push
+
+  update-my-stats:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
@@ -16,4 +34,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "False"
           LOCALE: "en"
