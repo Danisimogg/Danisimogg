@@ -52,74 +52,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 5 Contributions in the Year 2022
- > 
-> 📦 23.8 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    5 commits      █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-🌆 Daytime    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-🌃 Evening    9 commits      █████████░░░░░░░░░░░░░░░░   39.13% 
-🌙 Night      7 commits      ███████░░░░░░░░░░░░░░░░░░   30.43%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Tuesday      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     17 commits     ██████████████████░░░░░░░   73.91% 
-Sunday       3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.04%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Kiev
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               6 repos             ████████████░░░░░░░░░░░░░   50.0% 
-C#                       4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-
-```
-
-
-
- Last Updated on 04/05/2022 01:58:45 UTC
 <!--END_SECTION:waka-->
 
  </details>
@@ -141,7 +73,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 ---
 <p align="center"> 
-⏳ Year progress { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.72 %
+⏳ Year progress { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.99 %
 </p>
 
 ---
