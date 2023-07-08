@@ -52,73 +52,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C499%20hrs%2037%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 77.9 kB Used in GitHub's Storage 
- > 
-> 🏆 102 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-🌆 Daytime                267 commits         ██████████░░░░░░░░░░░░░░░   41.98 % 
-🌃 Evening                213 commits         ████████░░░░░░░░░░░░░░░░░   33.49 % 
-🌙 Night                  108 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Tuesday                  143 commits         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Wednesday                94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Thursday                 114 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Friday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Saturday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Sunday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Kyiv
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               19 repos            ███████████████░░░░░░░░░░   59.38 % 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-C#                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-
-
-
-
- Last Updated on 07/07/2023 01:50:47 UTC
 <!--END_SECTION:waka-->
 
  </details>
@@ -140,7 +73,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 ---
 <p align="center"> 
-⏳ Year progress { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 51.25 %
+⏳ Year progress { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 51.53 %
 </p>
 
 ---
