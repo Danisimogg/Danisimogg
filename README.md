@@ -52,6 +52,71 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C499%20hrs%2037%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 83.7 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 35 Public Repositories 
+ > 
+> 🔑 15 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2190 commits        ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+🌆 Daytime                4004 commits        █████████████░░░░░░░░░░░░   50.40 % 
+🌃 Evening                807 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+🌙 Night                  943 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   877 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Tuesday                  1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Wednesday                1365 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Thursday                 1703 commits        █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Friday                   2505 commits        ████████░░░░░░░░░░░░░░░░░   31.53 % 
+Saturday                 146 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Sunday                   82 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               27 repos            █████████████████░░░░░░░░   69.23 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+C#                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+
+
+
+
+ Last Updated on 12/07/2024 00:24:20 UTC
 <!--END_SECTION:waka-->
 
  </details>
