@@ -52,6 +52,36 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.63%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 809.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 428 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 38 Public Repositories 
+ > 
+> 🔑 27 Private Repositories 
+ > 
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               29 repos            ██████████████░░░░░░░░░░░   58.00 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+```
+
+
+
+
+ Last Updated on 25/07/2026 03:15:43 UTC
 <!--END_SECTION:waka-->
 
  </details>
